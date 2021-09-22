@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameDesignCp4</string>
+    <string name="player">Player</string>
+    <string name="computer_name">COM</string>
+</resources>
